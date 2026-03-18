@@ -1,14 +1,10 @@
 # Pass Task 2.1 - Travel Companion App
 
-Name: Tsz Fung Yuen  
-Student ID: 225163986  
-Unit: SIT708  
-
 ## About the task
-This task is about making a Travel Companion App in an Android smartphone, learning how to manage to use Android Studio. 
+This task is about making a Travel Companion App in an Android smartphone, learning how to manage Android Studio & its foundamental function
 
-## ✨ Features
-* **Multi-Category Conversions:**
+## Features
+In this app you can have simple coversion of: 
   * **Currency:** Converts USD to AUD, EUR, JPY, and GBP using fixed 2026 rates.
   * **Fuel & Volume:** Converts MPG to km/L and US Gallons to Liters.
   * **Distance:** Converts Nautical Miles to Kilometers.
